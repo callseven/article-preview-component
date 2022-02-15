@@ -4,6 +4,8 @@ link> https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pY
 
 Minha solução:
 
+https://callseven.github.io/article-preview-component/
+
 ![Desktop](https://user-images.githubusercontent.com/7409421/149431795-9b4d145a-d752-4a37-a11c-ccb3644e4d5d.png)
 
 
